@@ -290,6 +290,10 @@ footer {
   text-decoration: none;
 }  
 
+.hover:hover {
+  opacity: 0.8;
+}
+
 .under-construction {
   pointer-events: none;
   cursor: none;
