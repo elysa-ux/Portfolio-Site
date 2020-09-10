@@ -7,7 +7,7 @@ Colors Used:
 */
 
 .debug-outline {   
-  border: 1px white dotted;   
+  /* border: 1px white dotted;    */
 }  
 
 html {
@@ -190,6 +190,11 @@ a:focus {
   padding: 20px;
   border-radius: 20px;
   box-shadow: 9px 5px 24px 0px rgba(97, 65, 65, 0.19);  
+}
+
+.bar2 {
+  background-color: #5D7287;
+  padding-top: 30px;
 }
 
 .shadow {
