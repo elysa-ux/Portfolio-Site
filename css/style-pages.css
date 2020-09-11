@@ -197,6 +197,10 @@ a:focus {
   padding-top: 30px;
 }
 
+.bar3 {
+  color: white;
+}
+
 .shadow {
   box-shadow: 9px 5px 24px 0px rgba(97, 65, 65, 0.19);  
 }
@@ -525,6 +529,11 @@ main {
     width: 58.33%;
   }
 
+  .col-md-8 {
+    width: 67%;
+  }
+
+
   .col-md-9 {
     width: 75%;
   }
@@ -604,6 +613,10 @@ main {
 
   .col-lg-7 {
     width: 58.33%;
+  }
+
+  .col-lg-8 {
+    width: 67%;
   }
 
   .col-lg-9 {
