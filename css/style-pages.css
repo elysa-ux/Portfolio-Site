@@ -74,6 +74,10 @@ p, ul, li {
   text-align: justify;
 }
 
+.caption {
+  font-size: 9px;
+}
+
 .white-text {
   color: white;
 }
