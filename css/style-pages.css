@@ -7,7 +7,7 @@ Colors Used:
 */
 
 .debug-outline {   
-  /* border: 1px white dotted;    */
+  /* border: 1px white dotted;     */
 }  
 
 html {
@@ -547,6 +547,10 @@ main {
     width: 75%;
   }
 
+  .col-md-10 {
+    width:92%
+  }
+
   .col-md-11 {
     width: 97%
   }
@@ -630,6 +634,10 @@ main {
 
   .col-lg-9 {
     width: 75%;
+  }
+
+  .col-lg-10 {
+    width:92%
   }
 
   .col-lg-11 {
