@@ -19,7 +19,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
-  color: #4D5153;
+  color: black;
 }
 
 img {
@@ -75,7 +75,7 @@ p, ul, li {
 }
 
 .caption {
-  font-size: 9px;
+  font-size: 11px;
 }
 
 .white-text {
